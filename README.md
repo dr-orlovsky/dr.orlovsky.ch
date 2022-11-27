@@ -5,7 +5,9 @@ layout: editorial
 
 # Dr Maxim Orlovsky
 
-I am a transumanist and cypherpunk doing science, engineering and business activities. My primary focus is building foundations for the future which will unlock full potential of individuals through technology enabling self-sovereignty, privacy and censorship-resistance, leading to a vertical progress and further humanity evolution into forms much outside of what current collectivistic human society can propose or allow.
+I am a transhumanist and cypherpunk doing science, engineering and business activities.&#x20;
+
+My primary focus is building foundations for the future which will unlock full potential of individuals through technology enabling self-sovereignty, privacy and censorship-resistance, leading to a vertical progress and further humanity evolution into forms much outside of what current collectivistic society can propose or allow.
 
 ## Expertise
 
