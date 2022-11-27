@@ -7,6 +7,8 @@ layout: editorial
 
 I am a transumanist and cypherpunk doing science, engineering and business activities. My primary focus is building foundations for the future which will unlock full potential of individuals through technology enabling self-sovereignty, privacy and censorship-resistance, leading to a vertical progress and further humanity evolution into forms much outside of what current collectivistic human society can propose or allow.
 
+## Expertise
+
 Area of my expertise include:
 
 * Neuroscience & medicine (pathophysiology)
@@ -19,17 +21,27 @@ Area of my expertise include:
 * Game theory
 * Digital finance and legal systems
 
-## Technologies designed by me
+## Engineering work
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h3>Ubiquitous deterministic computing</h3></td><td><a href="https://app.gitbook.com/o/-MO35HartFKtUgrkgzLy/s/-MdUUOAyT-Nw8wDf9HPZ/">AluVM</a> (functional RISC virtual machine) and <a href="https://app.gitbook.com/o/-MO35HartFKtUgrkgzLy/s/-McPRmdXp1jTEY27B57G/">Strict Encoding</a> (formal, portable &#x26; deterministic encoding for binary data)</td></tr><tr><td><h3><a href="https://app.gitbook.com/o/-MO35HartFKtUgrkgzLy/s/-MO36nlUvK8SxfXw1MFs/">RGB smart contracts</a></h3></td><td>Scalable, confidential and censorship-resistant smart contracts</td></tr><tr><td><h3>Bifrost &#x26; Storm protocols</h3></td><td>Decentralized trustless settlement and data networks operating within Lightning network</td></tr><tr><td><h3><a href="https://githib.org/Prometheus-WG">Prometheus</a></h3></td><td>Trust-minimized settlement protocol for decentralized computing with provable game-theoretic properties</td></tr><tr><td><h3>Computer vision</h3></td><td>A set of systems and products for automatic patter recognition and digital image processing using cellular automata and neural networks</td></tr></tbody></table>
+### Protocols & technologies
 
-## Software products
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h3>Ubiquitous deterministic computing</h3></td><td><a href="https://app.gitbook.com/o/-MO35HartFKtUgrkgzLy/s/-MdUUOAyT-Nw8wDf9HPZ/">AluVM</a> (functional RISC virtual machine) and <a href="https://app.gitbook.com/o/-MO35HartFKtUgrkgzLy/s/-McPRmdXp1jTEY27B57G/">Strict Encoding</a> (formal, portable &#x26; deterministic encoding for binary data)</td></tr><tr><td><h3><a href="https://app.gitbook.com/o/-MO35HartFKtUgrkgzLy/s/-MO36nlUvK8SxfXw1MFs/">RGB smart contracts</a></h3></td><td>Scalable, confidential and censorship-resistant smart contracts</td></tr><tr><td><h3>Bifrost &#x26; Storm protocols</h3></td><td>Decentralized trustless settlement and data networks operating within Lightning network</td></tr><tr><td><h3><a href="https://githib.org/Prometheus-WG">Prometheus</a></h3></td><td>Trust-minimized settlement protocol for decentralized computing with provable game-theoretic properties</td></tr><tr><td><h3>Computer vision</h3></td><td>A set of systems and products for automatic patter recognition and digital image processing using cellular automata and neural networks</td></tr><tr><td><h3><a href="https://github.com/Cyphernet-WG/rust-microservices">Microservice framework</a></h3></td><td>Rust framework for developing scalable and performant apps with microservice achitecture</td></tr></tbody></table>
+
+### Software products
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h3><a href="https://mycitadel.io">MyCiadel</a></h3></td><td>A suite of software, hardware products and cloud services for sovereign individuals, which include bitcoin, lightning &#x26; RGB wallet, self-issued identity management &#x26; end-to-end encrypted communications</td></tr><tr><td><h3><a href="https://github.com/RGB-WG/rgb-node">RGB Node</a></h3></td><td>Software running RGB smart contracts</td></tr><tr><td><h3><a href="https://github.com/LNP-WG/lnp-node">LNP Node</a></h3></td><td>Lightning node implementation supporting decentralized data network Storm, generalized lightning channels and RGB</td></tr></tbody></table>
 
-## Languages and compilers
+### Languages and compilers
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h3><a href="https://github.com/AluVM/aluasm">AluAsm</a></h3></td><td>Assembly language and compiler for AluVM virtual machine</td><td><em>released 2021</em></td></tr><tr><td><h3><a href="https://app.gitbook.com/o/-MO35HartFKtUgrkgzLy/s/uL9nIEtYnQ8FQRaK4S3x/">Contractum</a></h3></td><td>Functional declarative language and toolchain for developing RGB smart contrats</td><td><em>in development</em></td></tr><tr><td><h3><a href="https://app.gitbook.com/s/-McPRmdXp1jTEY27B57G/schema">Sten schema</a></h3></td><td>Declarative language and toolchain for defining data type libraries with Strict Encoding</td><td><em>in development</em></td></tr><tr><td><h3>Parseltoungue</h3></td><td>Functional language and compiler frontend for AluVM inspired by Haskell, Erlang and Rust</td><td><em>in development</em></td></tr><tr><td><h3>Dias</h3></td><td>Script language for programming automatic digital image analysis system (DIAS)</td><td><em>1997, unmaintained</em></td></tr></tbody></table>
+
+### Other contributions
+
+I am a contributor (past or active) into a number of decentralization, trustless and privacy-focused projects, including
+
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h3><a href="https://github.com/rust-bitcoin/rust-bitcoin/graphs/contributors?from=2018-12-26&#x26;to=2022-04-01&#x26;type=c">Rust Bitcoin</a></h3></td><td>Most popular rust implementation of bitcoin</td></tr><tr><td><h3><a href="https://github.com/bitcoin/bips/pulls?q=is%3Apr+author%3Adr-orlovsky+">Bitcoin Standards</a> (BIPs)</h3></td><td>Standards defining bitcoin ecosystem</td></tr><tr><td><h3><a href="https://github.com/radicle-dev">Radicle</a></h3></td><td>"Decentralized GitHub"</td></tr></tbody></table>
+
+<figure><img src="https://github-readme-stats.vercel.app/api?username=dr-orlovsky&#x26;count_private=true&#x26;show_icons=true&#x26;theme=dark" alt=""><figcaption><p>Statictics on opensource contributions made on GitHub</p></figcaption></figure>
 
 ## Activism
 
