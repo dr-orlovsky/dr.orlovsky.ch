@@ -5,9 +5,7 @@ layout: editorial
 
 # Dr Maxim Orlovsky
 
-I am a transhumanist and cypherpunk doing science, engineering and business activities.&#x20;
-
-My primary focus is building foundations for the future which will unlock full potential of individuals through technology enabling self-sovereignty, privacy and censorship-resistance, leading to a vertical progress and further humanity evolution into forms much outside of what current collectivistic society can propose or allow.
+I am a transumanist and cypherpunk doing science, engineering and business activities. My primary focus is building foundations for the future which will unlock full potential of individuals through technology enabling self-sovereignty, privacy and censorship-resistance, leading to a vertical progress and further humanity evolution into forms much outside of what current collectivistic human society can propose or allow.
 
 ## Expertise
 
@@ -42,8 +40,6 @@ Area of my expertise include:
 I am a contributor (past or active) into a number of decentralization, trustless and privacy-focused projects, including
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h3><a href="https://github.com/rust-bitcoin/rust-bitcoin/graphs/contributors?from=2018-12-26&#x26;to=2022-04-01&#x26;type=c">Rust Bitcoin</a></h3></td><td>Most popular rust implementation of bitcoin</td></tr><tr><td><h3><a href="https://github.com/bitcoin/bips/pulls?q=is%3Apr+author%3Adr-orlovsky+">Bitcoin Standards</a> (BIPs)</h3></td><td>Standards defining bitcoin ecosystem</td></tr><tr><td><h3><a href="https://github.com/radicle-dev">Radicle</a></h3></td><td>"Decentralized GitHub"</td></tr></tbody></table>
-
-<figure><img src="https://github-readme-stats.vercel.app/api?username=dr-orlovsky&#x26;count_private=true&#x26;show_icons=true&#x26;theme=dark" alt=""><figcaption><p>Statictics on opensource contributions made on GitHub</p></figcaption></figure>
 
 ## Activism
 
