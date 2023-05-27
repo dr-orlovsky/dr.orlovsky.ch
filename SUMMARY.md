@@ -7,3 +7,4 @@
   * [Diverging Bitcoin & Crypto Worlds](blog/diverging-bitcoin-and-crypto-worlds.md)
   * [On Money, Liquidity & Eurodollar](blog/on-money-liquidity-and-eurodollar.md)
   * [ChatGPT as a Digital Parrot](blog/chatgpt-as-a-digital-parrot.md)
+  * [Web2, Web3...](blog/web2-web3....md)

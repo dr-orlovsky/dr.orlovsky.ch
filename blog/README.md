@@ -1,5 +1,9 @@
 # Blog
 
+{% content-ref url="web2-web3....md" %}
+[web2-web3....md](web2-web3....md)
+{% endcontent-ref %}
+
 {% content-ref url="chatgpt-as-a-digital-parrot.md" %}
 [chatgpt-as-a-digital-parrot.md](chatgpt-as-a-digital-parrot.md)
 {% endcontent-ref %}
