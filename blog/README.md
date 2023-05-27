@@ -1,5 +1,9 @@
 # Blog
 
+{% content-ref url="on-money-liquidity-and-eurodollar.md" %}
+[on-money-liquidity-and-eurodollar.md](on-money-liquidity-and-eurodollar.md)
+{% endcontent-ref %}
+
 {% content-ref url="diverging-bitcoin-and-crypto-worlds.md" %}
 [diverging-bitcoin-and-crypto-worlds.md](diverging-bitcoin-and-crypto-worlds.md)
 {% endcontent-ref %}
