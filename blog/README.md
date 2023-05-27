@@ -1,5 +1,9 @@
 # Blog
 
+{% content-ref url="chatgpt-as-a-digital-parrot.md" %}
+[chatgpt-as-a-digital-parrot.md](chatgpt-as-a-digital-parrot.md)
+{% endcontent-ref %}
+
 {% content-ref url="on-money-liquidity-and-eurodollar.md" %}
 [on-money-liquidity-and-eurodollar.md](on-money-liquidity-and-eurodollar.md)
 {% endcontent-ref %}
